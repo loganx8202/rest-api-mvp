@@ -23,7 +23,7 @@ rest-api-mvp/
 
 🚀 Getting Started
 1. Clone the Repository
-      git clone https://github.com/your-username/rest-api-mvp.git
+      git clone https://github.com/loganx8202/rest-api-mvp
       cd rest-api-mvp
 2. Install Dependencies
       npm install
