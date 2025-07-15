@@ -25,9 +25,10 @@ rest-api-mvp/
 1. Clone the Repository
       git clone https://github.com/loganx8202/rest-api-mvp
       cd rest-api-mvp
-2. Install Dependencies
+   
+3. Install Dependencies
       npm install
-3. Run the Server
+4. Run the Server
       npm run start
       This will start the server at:
       http://localhost:3000
